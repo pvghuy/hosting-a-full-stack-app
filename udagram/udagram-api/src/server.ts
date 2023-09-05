@@ -23,6 +23,7 @@ import { V0_FEED_MODELS, V0_USER_MODELS } from "./controllers/v0/model.index";
   await sequelize.sync();
 
   console.log("Database Connected");
+  console.log("Database Connected 2");
 
   const app = express();
   const port = 8080;
