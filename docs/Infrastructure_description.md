@@ -7,7 +7,7 @@ Use to Store and Retrieve data for the application using Postgres Database:
 
 ## S3 (Simple Storage Service) Bucket
 Use to Deploy the Front-end application:
-- Host: `fullstack-532101549081.s3-website-us-east-1.amazonaws.com/`
+- Host: `fullstack-532101549081.s3-website-us-east-1.amazonaws.com`
 
 ## Elastic BeanStalk
 Use to Host the application server (Back-end):
